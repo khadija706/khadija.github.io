@@ -1,0 +1,13 @@
+
+  <img src= https://content.codeacademy.com/courses/learn-html/elements-and-structure/profile.jpg" />.
+  <h3>by Isabelle Rodriguez | 1 day ago</h3>.
+
+  <h4> Related Content </h4>.
+    <ul>
+    <li> How To Style Boyfriend Jeans </li>
+    <li> Wehn Print is Too Much </li>
+    <li> The Overalls Trend </li>
+    <li> Fall’s it Color: Bluhs </li>
+  </ul>
+    </body>
+     </html>
